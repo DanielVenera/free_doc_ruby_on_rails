@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Hacking Project Week 4 - Ruby on Rails - Models and migrations
 
-Things you may want to cover:
+An app where patient and doctors can take appointments
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+run "rails db:seed" in order to reload the database with fake data taken from the gem 'faker'
